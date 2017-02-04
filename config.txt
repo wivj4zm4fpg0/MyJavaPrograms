@@ -1,0 +1,5 @@
+CNET Japan 最新情報 総合,http://feeds.japan.cnet.com/rss/cnet/all.rdf
+ZDNet Japan 最新情報 総合,http://feeds.japan.zdnet.com/rss/zdnet/all.rdf
+Yahoo!ニュース・トピックス - トップ,http://news.yahoo.co.jp/pickup/rss.xml
+朝日新聞デジタル,http://rss.asahi.com/rss/asahi/newsheadlines.rdf
+毎日新聞 - ニュース速報（総合）,http://rss.rssad.jp/rss/mainichi/flash.rss
