@@ -1,4 +1,4 @@
-package compiler.Compiler_15FI057;
+package compiler
 
 import java.io.*;
 import java.util.*;
